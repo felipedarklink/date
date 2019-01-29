@@ -59,7 +59,7 @@ public class Program {
 		int month = 1 + cal.get(Calendar.MONTH);
 		System.out.println(minutes);
 		System.out.println(month);
-		
+		System.out.println("--------------------------------------------");
 		
 		
 	}
